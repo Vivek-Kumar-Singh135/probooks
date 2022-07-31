@@ -2,7 +2,7 @@
     "name": "probooks",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://Vivek-Kumar-Singh135.github.io",
+    "homepage": "https://Vivek-Kumar-Singh135.github.io/probooks",
     "dependencies": {
         "prop-types": "^15.6.2",
         "react": "^16.7.3",
